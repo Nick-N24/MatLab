@@ -1,6 +1,4 @@
 % Nicholas Newton
-% Section 10
-% 1/16/20
 
 % Manipulating arrays
 
