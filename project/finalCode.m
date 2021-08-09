@@ -1,5 +1,3 @@
-% Nicholas Newton
-% Section 10
 % Final Project
 
 % create figure window
