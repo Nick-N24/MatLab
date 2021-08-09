@@ -1,9 +1,3 @@
-% Author: Nicholas Newton
-% Date: 1/29/20
-% Section 10
-
-% HW 5- Problem 5 chapter 5 #18c rpsv3
-
 % runs a single turn of the game
 % Generate the computer?s choice using rand
 % Prompt the user for the choice "r," "p," or "s."
