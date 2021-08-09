@@ -1,6 +1,3 @@
-% Author: Nicholas Newton
-% Date: 2/3/20
-% Section 10
 
 %  Reads in the file riverHeightData.txt
 % Asks the user for a year (1-3)
