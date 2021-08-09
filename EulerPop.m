@@ -1,8 +1,6 @@
 % Author: Nicholas Newton
 % Date: 2/18/20
-% Section 10
-
-% Participation 11- problem 1 euler population
+%euler population
 
 % plot pop of community from t=0 to t=0
 % equation:
