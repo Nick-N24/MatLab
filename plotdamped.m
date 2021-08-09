@@ -1,6 +1,3 @@
-% Author: Nicholas Newton
-% Date: 1/29/20
-% Section 10
 
 % plots the function 
 % f(x)= e^(-x/a) *cos((2*pi*x)/lamda)
