@@ -1,9 +1,6 @@
 % Author: Nicholas Newton
 % Date: 2/12/20
-% Section 10
-
-% HW 4
-% Problem 5 animating damped motion
+%animating damped motion
 
 % Start with the plotdamped.m code 
 % Change the code so there is a variable doAnimate that is
