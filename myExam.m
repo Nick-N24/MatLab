@@ -1,13 +1,10 @@
-% Nicholas Newton
-% Section 10 Smith
-% 4/7/20
-% Programming Exam Version D
+%%n
 
 clear
 clc
 clf
 
-%% Section 2 Calling and Animating
+%% Calling and Animating
 
 % Set Parameters
 tF=4.5;
@@ -37,7 +34,7 @@ for it= 1:Nt
     drawnow
 end
 
-%% Section 3 Analyzing thr River Data Height
+%% Section: Analyzing thr River Data Height
 
 % load file
 riverHeight=load('RiverDataD.txt');
@@ -100,7 +97,7 @@ disp(['On day ', num2str(minrow),...
                 ', the minimum river height of ',num2str(min),' feet occurred.'])
 
 
-%% Section 4 Die Rolling
+%% Section: Die Rolling
 
 % while loop to keep going until 2 ones are rolled 5x or 2 fours are rolled
 % 5x
